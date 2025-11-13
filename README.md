@@ -1,6 +1,6 @@
 # Sorteador de Números 🎲
 
-Um projeto desenvolvido durante o curso de mobile **Alura com o professor Patricioni (Santander)**.  
+Um projeto desenvolvido durante o curso de mobile da **Alura **.  
 O aplicativo permite ao usuário escolher **quantos números deseja sortear**, e então o programa gera uma lista aleatória de números dentro de um intervalo definido (por padrão, de 1 a 100).
 
 ---
